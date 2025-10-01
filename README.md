@@ -1,87 +1,97 @@
 # ¡Hola! 👋 Soy Facundo Canellada
 
 ## 🚀 Sobre Mí
-Desarrollador en constante crecimiento, apasionado por la tecnología y la creación de soluciones innovadoras. Desde mayo 2023 en GitHub, construyendo mi camino en el desarrollo de software con dedicación y entusiasmo por aprender.
+Desarrollador de videojuegos apasionado por crear experiencias interactivas únicas. Especializado en C, C++ y C#, construyendo mundos digitales y mecánicas de juego innovadoras desde mayo 2023. Actualmente estudiante de Desarrollo de Videojuegos.
 
 ## 🛠️ Tecnologías y Herramientas
 
 ### Lenguajes de Programación
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-### Frameworks y Librerías
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+### Game Engines y Frameworks
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
 
-### Herramientas y Plataformas
+### Herramientas de Desarrollo
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📁 Mis Proyectos
+## 🎮 Mis Proyectos de Videojuegos
 
-> 🔥 **5 repositorios públicos** donde exploro diferentes tecnologías y construyo soluciones
+> 🕹️ **6 repositorios públicos** explorando diferentes géneros y mecánicas de juego
 
-### 🌐 Aplicaciones Web
-**Tecnologías:** HTML, CSS, JavaScript, React
-- Desarrollo de interfaces de usuario interactivas y responsivas
-- Implementación de funcionalidades dinámicas con JavaScript
-- Diseño moderno y centrado en la experiencia del usuario
+### 🏃‍♂️ Juegos de Plataformas
+**Tecnologías:** C++, motores de juego nativos
+- Implementación de física y colisiones personalizadas
+- Sistema de animaciones y sprites
+- Mecánicas de movimiento fluido y responsive
+- Gestión de niveles y progresión
 
-### 🎯 Proyectos de Práctica
-**Tecnologías:** Python, Java, JavaScript
-- Ejercicios de algoritmos y estructuras de datos
-- Implementación de patrones de diseño
-- Resolución de problemas de programación
+### ⚔️ Juegos de Acción/Aventura
+**Tecnologías:** C#, Unity
+- Sistemas de combate dinámicos
+- IA para enemigos y NPCs
+- Inventario y sistema de items
+- Narrativa interactiva
 
-### 💻 Desarrollo Full Stack
-**Tecnologías:** Node.js, Express, bases de datos
-- Creación de APIs REST
-- Integración frontend-backend
-- Manejo de datos y autenticación
+### 🧩 Juegos de Puzzle/Estrategia
+**Tecnologías:** C, algoritmos optimizados
+- Algoritmos de resolución automática
+- Generación procedural de niveles
+- Sistemas de puntuación y ranking
+- Interfaz intuitiva de usuario
+
+### 🎯 Prototipos Experimentales
+**Tecnologías:** C++, C#
+- Exploración de nuevas mecánicas de juego
+- Pruebas de concepto para ideas innovadoras
+- Optimización de rendimiento
+- Integración de librerías especializadas
 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
 
-![Facundo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FacundoCanellada&show_icons=true&theme=radical&hide_border=true)
+![Facundo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FacundoCanellada&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoCanellada&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoCanellada&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
-## 🌱 En Constante Crecimiento
+## 🎯 Especialidades en Game Development
 
-- 📚 **Aprendizaje diario:** Siempre explorando nuevas tecnologías
-- 💡 **Resolución de problemas:** Enfoque en soluciones eficientes
-- 🤝 **Colaboración:** Abierto a trabajar en proyectos colaborativos
-- 🚀 **Innovación:** Buscando formas creativas de programar
+- 🎮 **Mecánicas de Juego:** Diseño e implementación de sistemas de gameplay únicos
+- ⚡ **Optimización:** Código eficiente para máximo rendimiento en juegos
+- 🎨 **Integración Gráfica:** Trabajo con engines y renderizado
+- 🔧 **Herramientas Custom:** Desarrollo de editores y utilidades para desarrollo
+- 🧠 **Algoritmos de IA:** Comportamientos inteligentes para entidades del juego
 
-## 🎯 Mis Objetivos
+## 🏆 Lo que me Motiva en el Game Development
 
-- [ ] Expandir mi portfolio con proyectos más complejos
-- [ ] Contribuir a proyectos open source
-- [ ] Dominar nuevos frameworks y tecnologías
-- [ ] Conectar con la comunidad de desarrolladores
-- [ ] Crear aplicaciones que resuelvan problemas reales
+- 🎯 **Creatividad Técnica:** Convertir ideas creativas en código funcional
+- ⚡ **Desafíos de Performance:** Optimizar para crear experiencias fluidas
+- 🎮 **Experiencia del Jugador:** Crear momentos memorables e inmersivos
+- 🔧 **Soluciones Elegantes:** Resolver problemas complejos con código limpio
+
+## 🎯 Objetivos 2025/26
+
+- [ ] Completar y pulir mis proyectos actuales de videojuegos
+- [ ] Explorar nuevas técnicas de optimización en C#
+- [ ] Contribuir a proyectos open source de game engines
+- [ ] Expandirme a usar nuevas tecnologias
 
 ## 🤝 ¡Conectemos!
-
 - 📧 Email: fcanellada2@gmail.com
-- 🌐 Portfolio: En construcción 🚧
-
----
+- 🎮 Itch.io: [Mi portfolio de juegos](https://facundocanellada.itch.io)
 
 <div align="center">
 
-**¡Gracias por visitar mi perfil!** 🚀
+**¡Gracias por visitar mi perfil!** 🎮
 
 ![Profile views](https://komarev.com/ghpvc/?username=FacundoCanellada&color=brightgreen)
 
-⭐ *No olvides darle estrella a los repos que te gusten* ⭐
-
+⭐ *¡Dale estrella a mis juegos si te gustan!* ⭐
 </div>
