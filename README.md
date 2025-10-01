@@ -83,7 +83,6 @@ Desarrollador de videojuegos apasionado por crear experiencias interactivas úni
 
 ## 🤝 ¡Conectemos!
 - 📧 Email: fcanellada2@gmail.com
-- 🎮 Itch.io: [Mi portfolio de juegos](https://facundocanellada.itch.io)
 
 <div align="center">
 
