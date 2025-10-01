@@ -55,8 +55,6 @@ Desarrollador de videojuegos apasionado por crear experiencias interactivas úni
 
 <div align="center">
 
-![Facundo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FacundoCanellada&show_icons=true&theme=dark&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoCanellada&layout=compact&theme=dark&hide_border=true)
 
 </div>
